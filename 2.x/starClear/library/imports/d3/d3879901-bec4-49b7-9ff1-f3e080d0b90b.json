@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "partical_tex_purple",
+    "texture": "e3be691f-2b0f-4fdd-b87c-0cc7fd4193c6",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      49,
+      48
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      52,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

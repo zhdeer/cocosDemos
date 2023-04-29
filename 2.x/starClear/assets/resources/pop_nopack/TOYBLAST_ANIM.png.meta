@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "71c40d61-db03-4ffd-b922-90cef878cc54",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 565,
+  "height": 104,
+  "platformSettings": {},
+  "subMetas": {
+    "TOYBLAST_ANIM": {
+      "ver": "1.0.6",
+      "uuid": "83cf5002-781c-4c64-8b11-db077d230ac5",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "71c40d61-db03-4ffd-b922-90cef878cc54",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0.5,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 557,
+      "height": 99,
+      "rawWidth": 565,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

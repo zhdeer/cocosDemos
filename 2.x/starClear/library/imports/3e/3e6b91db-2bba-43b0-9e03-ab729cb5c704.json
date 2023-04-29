@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "partical_tex_blue",
+    "texture": "6c99e48f-879e-447d-b80b-80d6e51e503d",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      50,
+      48
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      52,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

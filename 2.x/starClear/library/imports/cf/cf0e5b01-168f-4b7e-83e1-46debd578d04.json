@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popgame_35",
+    "texture": "227cee3c-d923-44e6-b6aa-1b3f49e2b523",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      298,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      298,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

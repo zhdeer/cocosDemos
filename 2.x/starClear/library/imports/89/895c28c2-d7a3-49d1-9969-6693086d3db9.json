@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "进群领取更多",
+    "texture": "120498ef-8874-4d0b-a618-568e18ecd133",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      220,
+      269
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      269
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

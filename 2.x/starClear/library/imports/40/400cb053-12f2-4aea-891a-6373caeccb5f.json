@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "partical_tex_yellow",
+    "texture": "d92ffd09-e113-4f03-853a-21f97fcb9661",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      48,
+      48
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      52,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

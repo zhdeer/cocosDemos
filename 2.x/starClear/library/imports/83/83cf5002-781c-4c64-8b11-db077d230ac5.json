@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TOYBLAST_ANIM",
+    "texture": "71c40d61-db03-4ffd-b922-90cef878cc54",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      557,
+      99
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      565,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

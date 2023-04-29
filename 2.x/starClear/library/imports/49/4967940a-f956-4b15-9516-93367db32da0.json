@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boom_16",
+    "texture": "1e96c642-3598-4b7b-98e7-ec57da5254ee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      124,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

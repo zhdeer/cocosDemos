@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popmain_02",
+    "texture": "1eb31e94-6c5f-495b-a0be-fbdc55ebb51d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      449,
+      125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      449,
+      125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

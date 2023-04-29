@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "partical_tex_red",
+    "texture": "30ec90ee-7d12-41fb-9b9f-5fb65086f723",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      49,
+      48
+    ],
+    "offset": [
+      1.5,
+      -1
+    ],
+    "originalSize": [
+      52,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

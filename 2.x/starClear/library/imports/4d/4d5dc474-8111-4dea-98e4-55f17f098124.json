@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_smart",
+    "texture": "e5cbb102-4091-4dbb-bac9-fbfa147f99c4",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      500,
+      232
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      502,
+      235
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

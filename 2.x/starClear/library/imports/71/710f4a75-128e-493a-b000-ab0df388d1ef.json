@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "friend_buttom",
+    "texture": "af30c29d-8fa9-475d-8b88-4d8c6244a244",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      215
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      215
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

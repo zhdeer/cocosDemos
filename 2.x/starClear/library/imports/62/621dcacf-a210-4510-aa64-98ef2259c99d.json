@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popstar_box_title",
+    "texture": "e7862f7e-d735-496e-a200-73598198a02e",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      290,
+      50
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      292,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

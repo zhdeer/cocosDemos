@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "partical_tex_green",
+    "texture": "a1f06074-da55-4a65-a67b-c6b7fc45b2db",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      49,
+      49
+    ],
+    "offset": [
+      1.5,
+      -0.5
+    ],
+    "originalSize": [
+      52,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

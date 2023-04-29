@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_verygood",
+    "texture": "fac0b381-f6ae-446d-b647-8b564582e190",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      419,
+      243
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      424,
+      246
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
